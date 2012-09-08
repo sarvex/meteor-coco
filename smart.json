@@ -2,7 +2,7 @@
   "name": "coco",
   "description": "coffee-script dialect with fewer WTFs",
   "homepage": "https://github.com/superjoe30/meteor-coco",
-  "author": "Mike Bannister  (http://po.ssibiliti.es)",
-  "version": "0.1.0",
+  "author": "Andrew Kelley",
+  "version": "0.0.1",
   "git": "https://github.com/superjoe30/meteor-coco.git"
 }
