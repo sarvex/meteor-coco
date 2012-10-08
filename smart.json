@@ -1,6 +1,6 @@
 {
   "name": "coco",
-  "description": "coffee-script dialect with fewer WTFs",
+  "description": "JavaScript dialect that fixes CoffeeScript's WTFs. See https://github.com/satyr/coco",
   "homepage": "https://github.com/superjoe30/meteor-coco",
   "author": "Andrew Kelley",
   "version": "0.0.1",

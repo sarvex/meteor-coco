@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Javascript dialect with fewer braces and semicolons"
+  summary: "JavaScript dialect that fixes CoffeeScript's WTFs. See https://github.com/satyr/coco"
 });
 
 var coco = require('coco');
